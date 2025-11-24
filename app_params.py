@@ -1,6 +1,6 @@
 import requests
 # import json
-URL = 'https://beautiful-soup-4.readthedocs.io/en/latest/'
+# URL = 'https://beautiful-soup-4.readthedocs.io/en/latest/'
 
 # https://jsonplaceholder.typicode.com/posts?userId=6
 BASE_URL = 'https://jsonplaceholder.typicode.com/posts'
